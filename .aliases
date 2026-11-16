@@ -1,0 +1,2 @@
+alias ll='ls -l'
+alias mc='LANG=en_EN.UTF-8 mc'
